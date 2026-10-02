@@ -8,7 +8,7 @@
 - [ ] Browser DevTools
 - [x] Burp Proxy
 - [x] Burp Repeater
-- [ ] First PortSwigger lab
+- [x] First PortSwigger lab — Username enumeration via different responses
 
 ## Phase 2 — Reconnaissance
 
