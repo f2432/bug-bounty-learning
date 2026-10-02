@@ -2,12 +2,12 @@
 
 ## Phase 1 — Foundations
 
-- [ ] HTTP request and response anatomy
-- [ ] Methods, status codes and headers
+- [x] HTTP request and response anatomy
+- [x] Methods, status codes and headers
 - [ ] Cookies and sessions
 - [ ] Browser DevTools
-- [ ] Burp Proxy
-- [ ] Burp Repeater
+- [x] Burp Proxy
+- [x] Burp Repeater
 - [ ] First PortSwigger lab
 
 ## Phase 2 — Reconnaissance
