@@ -78,10 +78,10 @@ Real bug bounty investigations should be kept outside this public repository unt
 
 See [docs/roadmap.md](docs/roadmap.md).
 
-## Methodology
+## Methodology and quality standard
 
-See [docs/methodology.md](docs/methodology.md).
+See [docs/methodology.md](docs/methodology.md) and the [Professional Quality Standard](docs/professional-quality-standard.md). Each authorized lab or test should produce a [reproducible experiment record](reports/templates/experiment-record.md), including positive/negative controls, expected/actual outcomes, and limits of the conclusion. A vulnerability report is reserved for a validated issue, not an unexplained scanner result.
 
 ## Current status
 
-Initial setup completed. Next topic: HTTP fundamentals and Burp Suite.
+Foundations underway: HTTP and Burp basics are recorded, and the first PortSwigger authentication lab is documented. Next focus: cookies/sessions, recon data quality, and controlled authorization testing. Progress is tracked in [docs/roadmap.md](docs/roadmap.md).
