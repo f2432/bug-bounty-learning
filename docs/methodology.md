@@ -118,3 +118,13 @@ Why?
 What signal did I initially miss?
 How could I detect this faster next time?
 ```
+
+## 9. Professional evidence and scientific rigor
+
+Follow the [Professional Quality Standard](professional-quality-standard.md) for every claim and writeup. Distinguish **discovery**, **protocol observation**, **hypothesis**, **reproduced anomaly**, and **validated security impact**; they are not interchangeable.
+
+Use the [experiment template](../reports/templates/experiment-record.md) to specify an exact security question, positive/negative controls, expected versus observed behavior, configuration/inherited permissions, and alternative explanations **before** interpreting results.
+
+A negative result is useful when scoped to the exact operations, roles and conditions actually tested. A tool's output, a confusing status code or a missing header does not automatically establish a security vulnerability. Document the denominator, sample and sources when reporting reconnaissance counts, and do not claim that naming patterns prove their generating mechanism without evidence.
+
+For public writeups, use only sanitized laboratory material or information explicitly approved for disclosure. Do not include private program identities, credentials, customer datasets, or undisclosed findings.
